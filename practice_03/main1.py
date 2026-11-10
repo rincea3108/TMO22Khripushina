@@ -17,4 +17,4 @@ def hello():
     print('Привет!')
 
 
-print(hello())
+hello()
